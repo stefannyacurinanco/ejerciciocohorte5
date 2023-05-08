@@ -1,0 +1,10 @@
+.p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point ul a,.p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point ul a:active,.p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point ul a:hover,.p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point ul a:link,.p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point ul a:visited{display:flex;padding:0 0 0 8px;line-height:normal}
+.p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point .p-team_site_menu__link_list{padding:0 24px 0 16px}
+.p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point .p-team_site_menu__link.p-team_site_left_nav__other_menu_link,.p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point .p-team_site_menu__link.p-team_site_left_nav__other_menu_link:active,.p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point .p-team_site_menu__link.p-team_site_left_nav__other_menu_link:hover,.p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point .p-team_site_menu__link.p-team_site_left_nav__other_menu_link:link,.p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point .p-team_site_menu__link.p-team_site_left_nav__other_menu_link:visited{color:#616061}
+.widescreen:not(.nav_open) .p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point .p-team_site_menu__link_list{padding:0 64px 0 16px}
+.p-admin_invites__page .p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point{background-color:rgba(29,28,29,.04);border-right:1px solid rgba(29,28,29,.13);flex:1}
+@media only screen and (min-width:1441px){.widescreen:not(.nav_open) .p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point h3.p-team_site_menu__heading{margin-bottom:8px;color:#616061}
+.widescreen:not(.nav_open) .p-team_site_left_nav__left_nav_toggle:hover{background:0 0;cursor:default}
+}
+@media only screen and (min-width:1441px) and (max-width:1640px){.p-team_site_left_nav_legacy_wrapper#team_site_left_nav_mount_point{width:250px}
+}
