@@ -1,0 +1,41 @@
+.souvenirs {
+    max-width: 1200px;
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    height: auto;
+    
+}
+
+
+.imgtext {
+    
+    width: 80%;
+    justify-content: space-between;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+}
+.titulo {
+    flex: 1;
+    text-align: left;}
+
+h2{
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 43px;
+    text-align: center;
+    margin: 0;
+
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+
+}
+
+
+
